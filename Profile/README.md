@@ -14,7 +14,7 @@ If you have questions or comments please [contact the FIT team](https://noaa-fis
 
 ## Repositories 
 
-Below are links to the repositories for tools which are in this organization. 
+Below are links to the repositories for tools which are hosted in this organization. 
 
 | Category  | Tools |
 | ------------- | ------------- |
