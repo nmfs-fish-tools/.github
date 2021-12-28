@@ -18,12 +18,4 @@ Repositories for pages of the GitHub hosted FIT website can be found in the [Fis
 
 ## Repositories 
 
-Below are links to the repositories for tools which are hosted in this organization. 
-
-| Category  | Tools |
-| ------------- | ------------- |
-| [Fish and Fisheries](https://nmfs-fish-tools.github.io/)   | [r4MAS](https://github.com/nmfs-fish-tools/r4MAS/) <br /> [SSMSE](https://github.com/nmfs-fish-tools/SSMSE) <br /> [YPR](https://github.com/nmfs-fish-tools/YPR) |
-| [Protected Species](https://nmfs-protected-species-tools.github.io/)  |   |
-| [Human Dimensions](https://nmfs-human-dimensions-tools.github.io/)  |   |
-| [Ecosystems](https://nmfs-ecosystem-tools.github.io/)  |  [MSSPM](https://github.com/nmfs-fish-tools/MSSPM) <br /> [nmfSharedUtilities](https://github.com/nmfs-fish-tools/nmfSharedUtilities) <br /> [MSCAA](https://github.com/nmfs-fish-tools/MSCAA) <br /> [MSVPA_X2](https://github.com/nmfs-fish-tools/MSVPA_X2) <br /> [REMORA](https://github.com/nmfs-fish-tools/REMORA) <br /> [Ecosystem-Modeling Guidance](https://github.com/nmfs-fish-tools/Ecosystem-Modeling-Guidance) <br /> [Atlantis_Availability](https://github.com/nmfs-fish-tools/Atlantis_Availability) <br /> [Donut_Tool](https://github.com/nmfs-fish-tools/Donut_Tool) <br /> [VES-V](https://github.com/nmfs-fish-tools/VES-V)  <br /> [Hawaii_EwE](https://github.com/nmfs-fish-tools/Hawaii_EwE) <br /> |
-| [General Modeling Tools](https://nmfs-general-modeling-tools.github.io/) | [nmfspalette](https://github.com/nmfs-fish-tools/nmfspalette) <br /> [FishSET-Map-Viewer](https://github.com/nmfs-fish-tools/FishSET-Map-Viewer) <br /> [ATL](https://github.com/nmfs-fish-tools/ATL) <br /> [KALMAN](https://github.com/nmfs-fish-tools/KALMAN)|
+The status of each repository in this organization can be found [here](https://github.com/nmfs-fish-tools/status#readme). 
