@@ -2,6 +2,9 @@
 
 # The [NOAA Fisheries Integrated Toolbox](https://noaa-fisheries-integrated-toolbox.github.io/) GitHub Organization 
 
+> [!IMPORTANT]
+> Repositories have been moved from nmfs-fish-tools. Repository locations can be found on the individual tool pages of the [Fisheries Integrated Toolbox website](https://www.fisheries.noaa.gov/resource/tool-app/noaa-fisheries-integrated-toolbox).
+
 In this organization you can find repositories associated with tools in the NOAA Fisheries Integrated Toolbox (FIT). 
 
 Software is a critical component of the work that NOAA Fisheries scientists do. Many scientists use and develop software for their own work tasks. However, most code is never seen except by the primary author or work group, even though the software could be applicable to other groups within NOAA Fisheries.
